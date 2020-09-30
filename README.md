@@ -5,4 +5,4 @@ maths
 computer science
 botony
 zoology
-
+In botony we enrol 60 students
